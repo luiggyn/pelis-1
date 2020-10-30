@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1 ,Vengadores tvg-logo="https://peliculaonline4k.com/upload/blog/portada/normal/avengers-end-game-c9d7a02b9df34b5dbff7f54e77dfca5f.jpg" Vengadores fin del juego
+#EXTINF:0 group-little=¨peliculas¨ tvg-logo="https://peliculaonline4k.com/upload/blog/portada/normal/avengers-end-game-c9d7a02b9df34b5dbff7f54e77dfca5f.jpg" Vengadores fin del juego
 https://thuj53.cfeucdn.com/secip/112469/U4tlwGGOVBuYdHk7vB_Eng/OC4yNDIuMjIzLjE2MQ==/1604113200/hls-vod-s10/flv/api/files/videos/2019/07/31/15645889552l7w1
-#EXTINF:-1 ,No manches frid tvg-logo=¨https://image.tmdb.org/t/p/w1280/rG7rDoTe1ZEa936eonDCkV76nkx.jpg¨ ,No manches frida 2
+#EXTINF:0 group-little=¨peliculas¨ tvg-logo¨https://image.tmdb.org/t/p/w1280/rG7rDoTe1ZEa936eonDCkV76nkx.jpg¨ ,No manches frida 2
 https://st20.streamsb.net/hls/tysxfkan3g66j6cdabibrsiihmkvhgns4cb37yjyo2fafa35s7qe7j5fqrfa/index-v1-a1.m3u8
 #EXTINF:0 group-title="peliculas" tvg-logo="https://elifilms.net/wp-content/uploads/2020/10/pacto-de-fuga-1.jpg", Pacto de Fuga | REGIOFLIX
 https://s1.zplayer.live/hls/,5fxct6d2wsnufvsa6k7u7ag6wpp33aw3cnm3tvdlhmng6fgfabbmdtzav2eq,.urlset/master.m3u8
